@@ -21,3 +21,9 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.log
+
+# Archives
+*.zip
+
+# Generated files
+*.csv.bak
